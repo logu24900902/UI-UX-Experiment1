@@ -28,3 +28,4 @@ Adobe XD
 [UIUX EXP1](./UXUI.EXP1.pdf)
 
 ## Result:
+The experiment was successfully completed.UI and UX were analyzed using real-world applications
