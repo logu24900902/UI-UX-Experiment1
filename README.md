@@ -25,6 +25,6 @@ Adobe XD
 
 
 ## Output:
-![UXUI.EXP1](UXUI.EXP1.pdf)
+[View PDF](./UXUI.EXP1.pdf)
 
 ## Result:
